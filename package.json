@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-to-jsonl": "^1.1.0",
     "jsonl": "^1.1.2"
   }
 }
