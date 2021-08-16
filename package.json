@@ -1,0 +1,17 @@
+{
+  "name": "json-to-jsonl-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-to-jsonl": "^1.1.0",
+    "jsonl": "^1.1.2"
+  }
+}
