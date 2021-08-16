@@ -26,6 +26,7 @@ v6.14.3
 ## How To Use
 
 Source: Copy JSON file into ./json/in.json
+
 Output: ./out.jsonl
 
 ```bash
