@@ -9,10 +9,6 @@ $ npm -v
 v6.14.3
 ```
 
-- Next.js: `10.0.0`
-- React: `17.0.1`
-- TypeScript: `4.0.5`
-
 ## Dependencies
 
 - [jsonl](https://www.npmjs.com/package/jsonl)
