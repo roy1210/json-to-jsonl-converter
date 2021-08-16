@@ -27,6 +27,7 @@ v6.14.3
 
 Source: Copy JSON file into ./json/in.json
 Output: ./out.jsonl
+
 ```bash
 npm start
 ```
